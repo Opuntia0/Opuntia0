@@ -1,4 +1,11 @@
-### Hi there 👋
+### Bonjour 👋 
+
+- 🇫🇷 Je suis française et j'ai 28 ans !
+- 💡 Recherche CDI sur Bordeaux
+- 🖥 Développeuse d'application Android natif Java / Kotlin
+- 📚 J'aime partager mes connaissances et apprendre
+- 💪 Fan de calisthénie et de randonées 
+
 
 <!--
 **Opuntia0/Opuntia0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
