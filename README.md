@@ -1,10 +1,10 @@
 ### Bonjour 👋 
 
 - 🇫🇷 Je suis française et j'ai 28 ans !
-- 💡 Recherche CDI sur Bordeaux
+- 💡 Recherche CDI en Normandie ou sur Paris
 - 🖥 Développeuse d'application Android natif Java / Kotlin
 - 📚 J'aime partager mes connaissances et apprendre
-- 💪 Fan de calisthénie et de randonées 
+- 💪 Fan de callisthénie et de randonées 
 
 
 <!--
